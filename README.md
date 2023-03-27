@@ -54,3 +54,18 @@ The following task is advanced and therefore optional.
  - Use console.log inside of your JavaScript code to see what your data looks like at each step.
 
  - Refer to the Plotly.js documentationLinks to an external site. when building the plots.
+ 
+## * Helpful Links
+http://robdunnlab.com/projects/belly-button-biodiversity/
+https://plotly.com/javascript/gauge-charts/
+https://plotly.com/javascript/
+https://d3js.org/
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
+https://docs.spacexdata.com/#46951cda-bdf2-481b-9697-118b1cbccaba
+https://observablehq.com/@d3/galleryhttps://plotly.com/javascript/plotlyjs-function-reference/#plotlyrestyle
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+## References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+ 
+ 
+ 
